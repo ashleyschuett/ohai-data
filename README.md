@@ -14,7 +14,7 @@ ContainerShip Developers - developers@containership.io
 ###Adding ohai-data as a dependency
 `npm install ohai-data --save`
 
-###How do I uase ohai-data?
+###How do I use ohai-data?
 ```javascript
 var ohai = require("ohai-data");
 
